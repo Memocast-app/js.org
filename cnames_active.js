@@ -1541,6 +1541,7 @@ var cnames_active = {
   "melody": "trivago.github.io/melody-web",
   "meow": "meow-js.github.io",
   "memer-api": "cname.vercel-dns.com",
+  "memocast": "tanknee.github.io/memocast",
   "mengd": "cname.vercel-dns.com",
   "menghafalquran": "mzaini30.github.io/menghafal-quran",
   "mercury": "henryqw.github.io/mercury",
